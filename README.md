@@ -18,6 +18,10 @@ Transform the date format in the dataset to MM-DD-YYYY.
 Desired Data Frame Operation
 Perform a data frame operation that you have recently learned and find interesting.
 Convert to Parquet.
+# Output_paraquet: 
+output of this file is around 290mb. so I tried upload using git Lfs also but not uploaded. So, uploaded that output on google drive and sharing the link of drive. 
+# Link:
+https://drive.google.com/file/d/1MlnNlX6l-XTx48EMxPYkhcHlTBznIISW/view?usp=drive_link
 
 ## Data Assignment 2
 This project involves working with a million reviews dataset, transforming the date format, and saving the data into a PostgreSQL or SQL Server table. Additionally, the output will be saved as a Parquet file.
